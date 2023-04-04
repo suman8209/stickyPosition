@@ -1,0 +1,25 @@
+.one{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	height: 100vh;
+}
+
+.two{
+	width: 50%;
+}
+.four{
+	display: flex;
+	justify-content: flex-start;
+}
+.three{
+	margin: 10px 20px;
+}
+.five input{
+	margin: 10px;
+}
+.five{
+	position: sticky;
+	top: 0;
+}
